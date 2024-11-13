@@ -11,7 +11,7 @@ A simple Java-based Meal Planner application that generates meal plans based on 
 1. Just upload this code in your java compiler
 
 ## Example
-- Enter your daily calorie limit: 2000
+- Enter your daily calorie limit: 250
 - Are you vegetarian (yes/no)? yes
 - Enter your fitness goal (weight loss/weight gain): weight loss
 
